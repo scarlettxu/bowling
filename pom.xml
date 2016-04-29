@@ -8,7 +8,7 @@
   <packaging>jar</packaging>
 
   <name>bowling</name>
-  <url>http://scarlettxu.com</url>
+  <url>http://scarlettxu.com.cn</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
